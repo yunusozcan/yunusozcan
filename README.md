@@ -4,11 +4,11 @@
 
 ## 💻&nbsp;My Tech Journey
 <p float="left">
-  <img src="https://www.php.net/images/logos/php-logo.svg" height="24" style="display:inline;">
-  &nbsp;&nbsp;&nbsp;➡️&nbsp;&nbsp;&nbsp;
-  <img src="https://www.ruby-lang.org/images/header-ruby-logo.png" height="24" style="display:inline;">
-  &nbsp;&nbsp;&nbsp;➡️&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png" height="24" style="display:inline;">
+  <img src="https://www.php.net/images/logos/php-logo.svg" height="24">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_arrow-right.svg/512px-Antu_arrow-right.svg.png" height="24">
+  <img src="https://www.ruby-lang.org/images/header-ruby-logo.png" height="24">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_arrow-right.svg/512px-Antu_arrow-right.svg.png" height="24">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png" height="24">
 </p>
 
 ## :octocat: GitHub Analytics
