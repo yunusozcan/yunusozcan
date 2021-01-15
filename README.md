@@ -6,9 +6,21 @@
 <p float="left">
   <img src="https://www.php.net/images/logos/php-logo.svg" height="24"> (2009 - 2012)
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_arrow-right.svg/512px-Antu_arrow-right.svg.png" height="24">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" height="24"> (2012 - 2014)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" height="24"> (2012 - 2018)
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_arrow-right.svg/512px-Antu_arrow-right.svg.png" height="24">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png" height="24"> (2009 - current)
+</p>
+
+<p float="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" height="24">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_arrow-right.svg/512px-Antu_arrow-right.svg.png" height="24">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="24">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_arrow-right.svg/512px-Antu_arrow-right.svg.png" height="24">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="24">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_arrow-right.svg/512px-Antu_arrow-right.svg.png" height="24">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" height="24">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_arrow-right.svg/512px-Antu_arrow-right.svg.png" height="24">
+  <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/horizontal-logo-monochromatic-white.png" height="24">
 </p>
 
 ## :octocat: GitHub Analytics
