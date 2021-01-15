@@ -1,6 +1,6 @@
 ### Hi there I'm Yunus. 👋
-- ⚽ I’m currently working as a Senior Front-End Developer at [@bilyoner](https://bilyoner.com/).
-- 👨‍💻 I'am creator of [@appitr](https://appitr.com/) and Ex co-founder [@hackercancom](https://hackercan.com/)
+- ⚽ &nbsp;I’m currently working as a Senior Front-End Developer at [@bilyoner](https://bilyoner.com/).
+- 👨‍💻.&nbsp;I'am creator of [@appitr](https://appitr.com/) and Ex co-founder [@hackercancom](https://hackercan.com/)
 
 <p align="center">
 <a href="https://github.com/yunusozcan">
