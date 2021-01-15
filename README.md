@@ -1,6 +1,6 @@
-### Hi there I'm Yunus. 👋
+### Hi there, I'm Yunus. 👋
 - ⚽ &nbsp;I’m currently working as a Senior Front-End Developer at [@bilyoner](https://bilyoner.com/).
-- 👨‍💻.&nbsp;I'am creator of [@appitr](https://appitr.com/) and Ex co-founder [@hackercan](https://hackercan.com/)
+- 👨‍💻.&nbsp;I'm creator of [@appitr](https://appitr.com/) and Ex co-founder [@hackercan](https://hackercan.com/)
 
 ## 💻&nbsp;My Tech Stack
 <p float="left">
@@ -12,10 +12,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_arrow-right.svg/512px-Antu_arrow-right.svg.png" height="24">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" height="24">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_arrow-right.svg/512px-Antu_arrow-right.svg.png" height="24">
-    <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" height="24">
+  <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" height="24">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_arrow-right.svg/512px-Antu_arrow-right.svg.png" height="24">
   <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/horizontal-logo-monochromatic-white.png" height="24">
-  
 </p>
 
 ## :octocat: GitHub Analytics
