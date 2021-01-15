@@ -3,11 +3,13 @@
 - 👨‍💻.&nbsp;I'am creator of [@appitr](https://appitr.com/) and Ex co-founder [@hackercancom](https://hackercan.com/)
 
 ## 💻&nbsp;My Tech Journey
-
-<img src="https://www.php.net/images/logos/php-logo.svg" height="24" style="display:inline;">
-<img src="https://www.ruby-lang.org/images/header-ruby-logo.png" height="24" style="display:inline;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png" height="24" style="display:inline;">
-
+<p float="left">
+  <img src="https://www.php.net/images/logos/php-logo.svg" height="24" style="display:inline;">
+  &nbsp;&nbsp;&nbsp;➡️&nbsp;&nbsp;&nbsp;
+  <img src="https://www.ruby-lang.org/images/header-ruby-logo.png" height="24" style="display:inline;">
+  &nbsp;&nbsp;&nbsp;➡️&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png" height="24" style="display:inline;">
+</p>
 
 ## :octocat: GitHub Analytics
 <p align="center">
