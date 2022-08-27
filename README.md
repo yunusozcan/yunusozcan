@@ -1,5 +1,5 @@
 ### Hi there, I'm Yunus. 👋
-- ⚽ &nbsp;I’m currently working as a Senior Front-End Developer at [@bilyoner](https://bilyoner.com/).
+- ⚽ &nbsp;I’m currently working as a Senior Front-End Developer at [@mintus](https://mintus.com/) former [@bilyoner](https://bilyoner.com/)
 - 👨‍💻.&nbsp;I'm creator of [@appitr](https://appitr.com/) and Ex co-founder [@hackercan](https://hackercan.com/)
 - 💭.&nbsp;I'm trying to organize a small meetup in Istanbul named [Coffee And React Native](https://kommunity.com/coffee-and-react-native-istanbul)
 
