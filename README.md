@@ -15,7 +15,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_arrow-right.svg/512px-Antu_arrow-right.svg.png" height="24">
   <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" height="24">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_arrow-right.svg/512px-Antu_arrow-right.svg.png" height="24">
-  <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/horizontal-logo-monochromatic-white.png" height="24">
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png.webp" height="24">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_arrow-right.svg/512px-Antu_arrow-right.svg.png" height="24">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="24">
   
